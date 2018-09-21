@@ -1093,9 +1093,7 @@ pre .javascript .function {
   background: transparent;
 }
 .header-inner {
-  margin: 0 auto;
-  padding: 100px 0 70px;
-  width: 700px;
+  position: relative;
 }
 .headband {
   height: 3px;
@@ -1834,7 +1832,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #beff34;
+  background: #47bd45;
 }
 .links-of-blogroll {
   font-size: 13px;
